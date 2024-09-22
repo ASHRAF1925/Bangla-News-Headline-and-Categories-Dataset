@@ -1,0 +1,1 @@
+This Repository Contains Resources releted to the research work "BNHGCD- A comprehensive Bangla News Headline Generation and Content Classification Dataset and Transformer based architecture for Facilitating Research and Practice"
